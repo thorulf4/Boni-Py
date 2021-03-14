@@ -3,6 +3,7 @@ Boni-Py is a discord bot for the one and only Slambonis server. Although he may 
 
 ## How to use
 To run this project you need to make sure you have the required python packages.
+
 `pip install -r requirements.txt`
 
 There is a `sample.env` that you must fill out and rename to `.env`
